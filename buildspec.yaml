@@ -9,6 +9,4 @@ phases:
   post_build: 
     commands:
     - echo "enterd the post build phase"
-artifacts:
-   files:
-     - echo "entered in the artifacts "
+
