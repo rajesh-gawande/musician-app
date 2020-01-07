@@ -11,4 +11,4 @@ phases:
     - echo "enterd the post build phase"
 artifacts:
    files:
-     - deploy /**/* 
+     - echo "entered in the artifacts "
