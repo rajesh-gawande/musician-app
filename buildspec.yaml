@@ -2,11 +2,11 @@ version: 0.2
 phases:
   pre_build:
     commands:
-    - echo "ebtered build phase"
+    - echo "entered build phase new"
   build:
     commands:
-    - echo "entered build phase"
+    - echo "entered build phase new"
   post_build: 
     commands:
-    - echo "enterd the post build phase"
+    - echo "enterd the post build phase new"
 
